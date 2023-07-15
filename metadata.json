@@ -1,0 +1,7 @@
+{
+  "name": "AnanasAddons",
+  "creator": "OctoSplash",
+  "description": "A simple Chat Triggers Module with Ananas related features",
+  "version": "0.1.0",
+  "entry": "index.js"
+}
